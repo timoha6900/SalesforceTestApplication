@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SalesforceTestApplication</string>
+    <string name="drawer_menu.item.account">Аккаунты</string>
+    <string name="drawer_menu.item.exit">Выход</string>
+    <string name="main_activity.error_msg.restart">Повторить</string>
+    <string name="main_activity.error_msg.network_error">Ошибка соединения с сервером. Попробуйте позже.</string>
+    <string name="main_activity.error_msg.network_unavailable">Сеть недоступна. Попробуйте позже.</string>
+    <string name="main_activity.error_msg.db_error">Внутреняя ошибка. Попробуйте позже.</string>
+</resources>
